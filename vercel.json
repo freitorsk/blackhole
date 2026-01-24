@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "http://66.78.59.25/$1" }
+    { "source": "/(.*)", "destination": "https://server7.webhostmost.com/$1" }
   ]
 }
