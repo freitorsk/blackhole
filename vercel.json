@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "http://162.210.102.233/grav/$1" }
+    { "source": "/(.*)", "destination": "http://185.176.43.102/grav/$1" }
   ]
 }
