@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "http://pkb-talks.4pu.com:8880/:path*"
+      "destination": "http://pkb-talks.4pu.com:8881/:path*"
     }
   ]
 }
